@@ -232,15 +232,15 @@ def test_all(hide_output: bool = False) -> None:
     to the global dicts (_acc_scores and _time_spent)
     """
     models = {
-        # 'Logistic Regression': train_logrog,
+        'Logistic Regression': train_logrog,
         'Stochastic Gradient Descent': train_sgd,
-        # 'Support Vector Machine': train_svm,
-        # 'Decision Tree': train_dt,
-        # 'Random Forest': train_rf,
-        # 'XGBoost': train_xgb,
-        # 'Gradient Boosting': train_gb,
-        # 'K-Nearest Neighbors': train_knn,
-        # 'Naive Bayes': train_nb
+        'Support Vector Machine': train_svm,
+        'Decision Tree': train_dt,
+        'Random Forest': train_rf,
+        'XGBoost': train_xgb,
+        'Gradient Boosting': train_gb,
+        'K-Nearest Neighbors': train_knn,
+        'Naive Bayes': train_nb
     }
     for name, train_func in models.items():
         start = perf_counter()
