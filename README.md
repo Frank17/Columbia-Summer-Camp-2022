@@ -3,7 +3,7 @@ Here I saved the dataset and code I wrote for the final project for the Columbia
 
 - **Course title**: [Big Data, Machine Learning, and their Real World Applications](https://precollege.sps.columbia.edu/highschool/online/courses/1-week/big-data-machine-learning-and-their-real-world-applications)
 
-- **Note**: I'll do a major update on the code once I got some free time. The current plan is to:
+- **Note**: I'll do a major update on the code once I get some free time. The current plan is to:
   - Organize the *existing code* by seperating them into different modules
   - Add a *new module* dedicated to cleaning the dataset via some EDA
   - Add a *new module* dedicated to regression-related algorithms
