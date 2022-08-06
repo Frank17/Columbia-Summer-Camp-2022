@@ -1,7 +1,7 @@
 # Columba-Summer-Camp-2022
 Here I saved the dataset and code I wrote for the final project for the Columbia pre-college program I attended from 8/1/22 to 8/5/22.
 
-- **Course title**: ![Big Data, Machine Learning, and their Real World Applications](https://precollege.sps.columbia.edu/highschool/online/courses/1-week/big-data-machine-learning-and-their-real-world-applications)
+- **Course title**: [Big Data, Machine Learning, and their Real World Applications](https://precollege.sps.columbia.edu/highschool/online/courses/1-week/big-data-machine-learning-and-their-real-world-applications)
 
 - **Note**: I'll do a major update on the code once I got some free time. The current plan is to:
   - Organize the *existing code* by seperating them into different modules
