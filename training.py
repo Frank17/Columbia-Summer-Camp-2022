@@ -1,7 +1,3 @@
-from typing import Optional, Tuple, Callable
-from operator import itemgetter
-from time import perf_counter
-
 # Visualization
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -27,6 +23,11 @@ from sklearn.metrics import confusion_matrix
 
 # Cleaned dataset
 from dataset import all_features, target_features
+
+from operator import itemgetter
+from time import perf_counter
+from typing import Optional, Tuple, Callable
+
 
 # formatting constants
 DIVIDER = '——' * 60
