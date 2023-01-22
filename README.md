@@ -5,7 +5,7 @@ Here I saved the dataset and code I wrote for the final project for the Columbia
 
 - **Note**: I'll do a major update on the code once I get some spare time. The current plan is to:
   - Organize the *existing code* by seperating them into different modules
-  - Add a *new module* dedicated to cleaning the dataset via some EDA
+  - Add a *new module* dedicated to cleaning the dataset via EDA
   - Add a *new module* dedicated to regression-related algorithms
     - Will be somewhat similar to the current version of the `training.py` file
 
